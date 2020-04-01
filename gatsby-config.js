@@ -29,6 +29,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-162423757-1"
+      }
+    },
+    {
       resolve: "@narative/gatsby-theme-novela",
       options: {
         contentPosts: "content/posts",

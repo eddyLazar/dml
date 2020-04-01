@@ -15,6 +15,12 @@ slug: kak-modno-bit-hipsterom
 
 <!-- [Google Podcasts](https://www.google.com "Google's Homepage") -->
 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/996407b9-018f-4024-b6a8-b61ecbb5d8f7?dark=true"></iframe>
+
+### Примечание к предисловию
+
+Предисловие было записано примерно за час до самого последнего крайнего-прекрайнего дедлайна выпуска подкаста который я сам конечно же себе поставил...
+
 ### Описание
 
 Всем привет, я Эдик. С дрожью в руках и немного в голосе представляю вам первый выпуск своего подкаста. Он о в основном обо мне, но и о других тоже, о том что меня интересует и заботит - в общем обо всем. Несколько лет я думал что сёрфинг это моя жизнь и я больше никогда не смогу жить без моря и паруса, а ещё не так давно писал коды для новых сайтов. И хотя я считаю что программист очень творческая профессия (некоторым иногда приходится это объяснять) мое сердце позвало меня открывать новые творческие горизонты, а ему я уже не могу сопротивляться!
@@ -29,9 +35,9 @@ _To be continued..._
 
 _To be continued..._
 
-## 3. Браслет
+## 3. Браслеты
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/446d30c7-5443-4840-bcf6-65e7966aba25?dark=false"></iframe>
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/446d30c7-5443-4840-bcf6-65e7966aba25?dark=true"></iframe>
 
 <div className="Image__Small">
   <img
@@ -44,6 +50,8 @@ _To be continued..._
 Вот столько примерно нужно браслетов, чтобы очистить океан от пластика который туда попадает в течении одного дня. Браслет кстати прикольный, и мешочек мне очень понравился. На самом деле, я этот браслет почти сразу же потерял, но в итоге мне по ошибке прислали два, даже не знаю могу ли я теперь говорить что я очистил океан от 2 фунтов мусора? Если тоже хотите повлиять на целый океан идите на [4ocean](https://bit.ly/3dJ3jXr) у них там много разных браслетов.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PJ5AEoO0cNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Выше видео с соревнований, если не открывается можно глянуть по <a href="https://www.youtube.com/watch?v=PJ5AEoO0cNM&feature=emb_logo" target="_blank">ссылке</a>.
 
 <div className="Image__Small">
   <img

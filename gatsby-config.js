@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `Платформа для постов и подкастов и всяких статей.`,
     hero: {
-      heading: `Hello, world!`,
+      heading: ``,
       maxWidth: 652
     },
     social: [

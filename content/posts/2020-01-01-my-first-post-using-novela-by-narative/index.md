@@ -47,6 +47,14 @@ _To be continued..._
 
 <div className="Image__Small">
   <img
+    src="./images/bracelet_4.jpeg"
+    title="Травма"
+    alt="Травма"
+  />
+</div>
+
+<div className="Image__Small">
+  <img
     src="./images/bracelet_2.jpeg"
     title="Травма"
     alt="Травма"

@@ -9,21 +9,14 @@
   font-style: italic;
 }
 
-h1,
+/* h1,
 h2,
 h3,
 h4,
 h5 {
-  /* font-family: "Steinbeck", "-apple-system", "BlinkMacSystemFont",
-    "San Francisco", "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto",
-    "Segoe UI", "Arial", sans-serif !important;
-  font-weight: normal !important; */
-}
-
-/* h1 {
   font-family: "Steinbeck", "-apple-system", "BlinkMacSystemFont",
     "San Francisco", "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto",
-    "Segoe UI", "Arial", sans-serif;
+    "Segoe UI", "Arial", sans-serif !important;
   font-weight: normal !important;
 }
 

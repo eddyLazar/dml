@@ -1,35 +1,31 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Делай Мир Лучше`,
+    name: `Делай Мир Лучше`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Платформа для постов и подкастов и всяких статей.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Hello, world!`,
+      maxWidth: 652
     },
     social: [
       {
+        name: `instagram`,
+        url: `https://instagram.com/real.edos`
+      },
+      {
+        name: `facebook`,
+        url: `https://www.facebook.com/profile.php?id=100008334482401`
+      },
+      {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/EddyLazar`
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
-    ],
+        url: `https://github.com/eddyLazar`
+      }
+    ]
   },
   plugins: [
     {
@@ -38,29 +34,34 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
-          local: true,
+          local: true
           // contentful: true,
-        },
-      },
+        }
+      }
+    },
+    {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        custom: {
+          families: ["Steinbeck"],
+          urls: ["/fonts/fonts.css"]
+        }
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Делай Мир Лучше`,
+        short_name: `ДМЛ`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
-    },
-  ],
+        icon: `src/assets/round_with_pattern.png`
+        // icon: `src/assets/favicon.png`
+      }
+    }
+  ]
 };

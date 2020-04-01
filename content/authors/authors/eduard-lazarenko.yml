@@ -1,0 +1,11 @@
+name: Eduard Lazarenko
+bio: |
+  Еврей, программист, серфер, искатель(приключений и истины), любит йогу, капучинку с миндальным молоком, практикует медитацию, не есть мясо, когда-то носил бороду, а в какой-то момент соскочил на усишки, склонен к позитивному мышлению и осознанности. Следующий шаг - подкаст.
+avatar: ./avatars/square.png
+social:
+  - url: https://unsplash.com
+  - url: https://stackoverflow.com
+  - url: https://github.com
+  - url: https://github.com
+  - url: https://github.com
+featured: true

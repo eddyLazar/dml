@@ -1,130 +1,86 @@
 ---
-title: My first post using Novela by Narative
-author: Dennis Brotzky
-date: 2019-04-30
-hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+title: Как? Модно? Быть? Хипстером.
+author: Eduard Lazarenko
+date: 2020-04-01
+hero: ./images/hero4.jpg
+excerpt: Эксперимент первый. Исследование жанра аудио нарратив. 4 истории основанные на реальных событиях из жизни автора.
+slug: kak-modno-bit-hipsterom
 ---
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+<!-- ### Links -->
 
-## Headers
+<!-- _(тут будут ссылки на всякие места где можно слушать подкасты)_ -->
 
-# H1
+<!-- [Apple Podcasts](https://www.google.com) -->
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+<!-- [Google Podcasts](https://www.google.com "Google's Homepage") -->
 
-## H2
+### Описание
 
-### H3
+Всем привет, я Эдик. С дрожью в руках и немного в голосе представляю вам первый выпуск своего подкаста. Он о моей жизни, о жизни других людей, о том что меня интересует и заботит - в общем обо всем. Несколько лет я думал что сёрфинг это моя жизнь и я больше никогда не смогу жить без моря и паруса, а ещё не так давно писал коды для новых сайтов. И хотя я считаю что программист очень творческая профессия (некоторым иногда приходится это объяснять) мое сердце позвало меня открывать новые творческие горизонты, а ему я уже не могу сопротивляться!
 
-#### H4
+В своих исследованиях мира подкастинга я наткнулся на мир так называемых нарративных покдастов, это такие подкасты в которых рассказываются истории, обычно это реальные истории из жизни людей. Неожиданно для самого себя, первый мой экспериментальный выпуск будет именно в этом жанре. Я решил что прежде чем брать на себя ответсвенность за истории других, нужно поэкспериментировать немного на себе, поэтому сразу предупреждаю тут будут истории основанные на рельных событиях из моей жизни. Хочу отдельно отметить, что в этих историях нет никаких намерений кого-то чему-то научить или что-то кому-то навязать, все это просто творческий эксперимент и проверка своих идей, так что встречайте и включайте, строго не судите!_(Начинайте со вступления)_
 
-##### H5
+## 1. Носки
 
-###### H6
+_To be continued..._
 
-## Emphasis
+## 2. Очки
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+_To be continued..._
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+## 3. Браслет
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Lists
-
-1. First ordered list item
-2. Another item
-3. Actual numbers don't matter, just that it's a number
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
-
-## Links
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-## Images
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/446d30c7-5443-4840-bcf6-65e7966aba25?dark=false"></iframe>
 
 <div className="Image__Small">
   <img
-    src="./images/article-image-2.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
+    src="./images/bracelet_1.jpg"
+    title="Сколько нужно браслетов?"
+    alt="Сколько нужно браслетов?"
   />
 </div>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Вот столько примерно нужно браслетов, чтобы очистить океан от пластика который туда попадает в течении одного дня. Браслет кстати прикольный, и мешочек мне очень понравился. На самом деле, я этот браслет почти сразу же потерял, но в итоге мне по ошибке прислали два, даже не знаю могу ли я теперь говорить что я очистил океан от 2 фунтов мусора? Если тоже хотите повлиять на целый океан идите на [4ocean](https://bit.ly/3dJ3jXr) у них там много разных браслетов.
 
-## Code and Syntax Highlighting
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJ5AEoO0cNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+<div className="Image__Small">
+  <img
+    src="./images/bracelet_2.jpeg"
+    title="Травма"
+    alt="Травма"
+  />
+  <figcaption>Последствия падения - ушиб реба, через месяцок уже был в полной боевой готовности</figcaption>
+</div>
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
+<div className="Image__Small">
+  <img
+    src="./images/bracelet_3.jpeg"
+    title="Участники"
+    alt="Участники"
+  />
+  <figcaption>Справа на фото побетидель среди любителей</figcaption>
+</div>
 
-### JSX
+## 4. Куртец
 
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-## Blockquotes
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
-## Horizontal Rule
-
-Horizontal Rule
-
-Three or more...
+_To be continued..._
 
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+## Credits
 
----
+Podcast Artwork by [Tanya Tsaur/ Pastushkova](https://bit.ly/39yVBf9)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Картинка в начале [Raphael Shochat](https://bit.ly/2UWly3f)
+
+**Music**
+
+Running Away by Rafael Krux
+Link: [https://filmmusic.io/song/5312-running-away-](https://filmmusic.io/song/5312-running-away-)
+License: [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
+
+Man Down by Kevin MacLeod
+Link: [https://incompetech.filmmusic.io/song/4016-man-down](https://incompetech.filmmusic.io/song/4016-man-down)
+License: [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)

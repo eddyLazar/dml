@@ -3,7 +3,7 @@ title: Как? Модно? Быть? Хипстером.
 author: Eduard Lazarenko
 date: 2020-04-01
 hero: ./images/hero4.jpg
-excerpt: Первый экспериментальный творческий порыв
+excerpt: Эпизод первый - экспериментальный творческий порыв, проверка своих идей.
 slug: kak-modno-bit-hipsterom
 ---
 

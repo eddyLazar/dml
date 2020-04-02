@@ -1,5 +1,7 @@
+import Image from "@narative/gatsby-theme-novela/src/components/Image";
 import Paragraph from "@narative/gatsby-theme-novela/src/components/Paragraph";
 import React from "react";
+import logoSrc from "./square.png";
 
 /**
  * Paste in your SVG logo and return it from this component.
@@ -10,8 +12,13 @@ import React from "react";
  */
 export default function Logo({ fill }) {
   return (
-    <Paragraph style={{ margin: 0, fontFamily: "Steinbeck" }}>
-      Делай Мир Лучше
-    </Paragraph>
+    <div style={{ display: "flex", alignItems: "center" }}>
+      <Image src={logoSrc} style={{ width: 50, marginRight: 10 }}></Image>
+      <Paragraph
+        style={{ margin: 0, marginTop: 4, fontFamily: "Steinbeck", padding: 0 }}
+      >
+        ДМЛ
+      </Paragraph>
+    </div>
   );
 }

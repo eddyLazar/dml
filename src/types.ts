@@ -1,5 +1,13 @@
 import { IArticle, IAuthor } from "@narative/gatsby-theme-novela/src/types";
 
+type SocialUrl = {
+  url: string;
+};
+
+export type AuthorWithSocial = IAuthor & {
+  social: SocialUrl[];
+};
+
 export type AuthorTemplate = React.FC<{
   pageContext: {
     article: IArticle;
@@ -7,7 +15,7 @@ export type AuthorTemplate = React.FC<{
     mailchimp: boolean;
     next: IArticle[];
     additionalContext: {
-      author: IAuthor;
+      author: AuthorWithSocial;
     };
     group: IArticle[];
   };

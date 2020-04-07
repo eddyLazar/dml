@@ -7,12 +7,13 @@ import AuthorHero from "@narative/gatsby-theme-novela/src/sections/author/Author
 import React from "react";
 import styled from "../../../gatsby-plugin-theme-ui/styled";
 import { AuthorTemplate } from "../../../types";
+import { isAuthorPodcast } from "../../../utils/podcasts";
 
 const ArticlesPage: AuthorTemplate = ({ location, pageContext }) => {
   const author = pageContext.additionalContext.author;
   const articles = pageContext.group;
 
-  console.log(author);
+  const [isPodcast, podcastRss] = isAuthorPodcast(author);
 
   return (
     <Layout>
@@ -20,7 +21,17 @@ const ArticlesPage: AuthorTemplate = ({ location, pageContext }) => {
         pathname={location.pathname}
         title={author.name}
         description={author.bio}
-      />
+      >
+        {isPodcast && (
+          <link
+            type="application/rss+xml"
+            rel="alternate"
+            title={author.name}
+            // @ts-ignore
+            href={podcastRss}
+          />
+        )}
+      </SEO>
       <Section narrow>
         <AuthorHero author={author} />
         <AuthorArticles articles={articles} />

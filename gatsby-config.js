@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Делай Мир Лучше`,
     name: `Делай Мир Лучше`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://dml.eddylazar.com`,
     description: `Платформа для постов и подкастов и всяких статей.`,
     hero: {
       heading: ``,
@@ -28,6 +28,7 @@ module.exports = {
     ],
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

@@ -6,34 +6,34 @@ module.exports = {
     description: `Платформа для постов и подкастов и всяких статей.`,
     hero: {
       heading: ``,
-      maxWidth: 652
+      maxWidth: 652,
     },
     social: [
       {
         name: `instagram`,
-        url: `https://instagram.com/real.edos`
+        url: `https://instagram.com/real.edos`,
       },
       {
         name: `facebook`,
-        url: `https://www.facebook.com/profile.php?id=100008334482401`
+        url: `https://www.facebook.com/profile.php?id=100008334482401`,
       },
       {
         name: `twitter`,
-        url: `https://twitter.com/EddyLazar`
+        url: `https://twitter.com/EddyLazar`,
       },
       {
         name: `github`,
-        url: `https://github.com/eddyLazar`
-      }
-    ]
+        url: `https://github.com/eddyLazar`,
+      },
+    ],
   },
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-162423757-1",
-        head: true
-      }
+        head: true,
+      },
     },
     {
       resolve: "@narative/gatsby-theme-novela",
@@ -41,21 +41,21 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: false,
+        authorsPage: true,
         sources: {
-          local: true
+          local: true,
           // contentful: true,
-        }
-      }
+        },
+      },
     },
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         custom: {
           families: ["Steinbeck"],
-          urls: ["/fonts/fonts.css"]
-        }
-      }
+          urls: ["/fonts/fonts.css"],
+        },
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -66,9 +66,9 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/round_with_pattern.png`
+        icon: `src/assets/round_with_pattern.png`,
         // icon: `src/assets/favicon.png`
-      }
-    }
-  ]
+      },
+    },
+  ],
 };

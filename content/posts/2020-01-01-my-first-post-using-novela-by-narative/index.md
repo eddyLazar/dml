@@ -1,6 +1,6 @@
 ---
 title: Как? Модно? Быть? Хипстером.
-author: Eduard Lazarenko
+author: Eduard Lazarenko, Делай Мир Лучше
 date: 2020-04-01
 hero: ./images/hero4.jpg
 excerpt: Эпизод первый - экспериментальный творческий порыв, проверка своих идей.

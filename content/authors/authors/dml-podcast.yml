@@ -1,0 +1,9 @@
+name: Делай Мир Лучше
+bio: |
+  Еврей, программист, серфер, искатель(приключений и истины), любит йогу, кофе с молоком без молока, медитирует, не есть мясо, когда-то носил бороду, а в какой-то момент соскочил на усишки, склонен к позитивному мышлению и осознанности. Следующий шаг - подкаст.
+avatar: ./avatars/square.png
+social:
+  - url: https://instagram.com/real.edos
+  - url: https://www.facebook.com/eddyboylazar
+  - url: https://twitter.com/EddyLazar
+featured: true

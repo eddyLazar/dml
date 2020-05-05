@@ -1,5 +1,5 @@
 ---
-title: "#2 Лея Веденски"
+title: "#2 Леа Веденски"
 author: Eduard Lazarenko, Делай Мир Лучше
 date: 2020-04-30
 hero: ./images/cover.jpg

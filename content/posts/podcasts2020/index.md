@@ -1,5 +1,5 @@
 ---
-title: Подборка лучших подкастов 2020
+title: Подборка подкастов 2020
 author: Eduard Lazarenko
 date: 2020-04-30
 hero: ./images/cover2.jpg

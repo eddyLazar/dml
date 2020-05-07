@@ -7,6 +7,18 @@ excerpt: Поиск пути, предназначения, смыслов, гл
 slug: lea-wedensky-1
 ---
 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/517f94d0-cb6e-44ad-a3ed-38fa67191f8d?dark=true"></iframe>
+
+### Подписаться
+
+- [Apple Podcasts](https://apple.co/3frQXUs)
+- [Google Podcasts](https://bit.ly/3cfBox9)
+- [Spotify](https://spoti.fi/3ceCGbR)
+- [Overcast](https://bit.ly/3fvefcf)
+- [rss](https://feeds.simplecast.com/mROgeYHd)
+
+Слушать этот выпуск на [Apple Podcasts](https://apple.co/3fuTDRm), [Google Podcasts](https://bit.ly/2A9aLvN), [Spotify](https://spoti.fi/3doum9t), [Overcast](https://bit.ly/2SNvSdA)
+
 ### Описание
 
 Леа Веденски - израильский исследователь в области мышления, психолог и писатель, ведущая групп, индивидуальных и семейных консультаций, специалист в области корпоративной культуры и управления персоналом. В своей работе Леа Веденски использует не только достижения современной психологии, результаты собственных исследований и практической деятельности, но и адаптирует к современной реальности идеи и практики древних израильских мыслителей и мудрецов. По мнению Леи их идеи, переведенные на язык современности, как никогда актуальны и полезны в наши время.
@@ -15,15 +27,15 @@ slug: lea-wedensky-1
 
 ### Таймкоды
 
-1. Кризис смыслов и развитие желаний
-2. Глубинные ценности
-3. Поиск глубинных ценностей через личную историю
-4. творчество
-5. с чего начать поиск своего смысла
+1. **00:01:00** Кризис смыслов и развитие желаний
+2. **00:27:30** Глубинные ценности
+3. **00:40:00** Поиск глубинных ценностей через личную историю
+4. **1:03:20** творчество
+5. **1:31:00** с чего начать поиск своего смысла
 
 ### Ссылки и упоминания
 
-- Леа Веденски [Сайт](https://wedensky.com/) | [Фейсбук](https://www.facebook.com/LeaWedensky) | [Инстаграм](https://instagram.com/leawedensky/)
+- Леа Веденски [Сайт](https://bit.ly/3fsKeK2) | [Фейсбук](https://bit.ly/2A8lbf8) | [Инстаграм](https://bit.ly/3fw176o)
 - [Ссылка](https://wedensky.com/prednaznachenie) на статьи Леи о предназначении
 - [Текст силы](https://wedensky.com/ectcenter/groups-seminars-expeditions/powertext) - авторский метод Леи, посвященный раскрытию предназначения человека и его персональной миссии
 - [О Жизни, Смерти и Любви. Записи на полях в дневнике психолога](https://www.litres.ru/lea-vedenski-8857705/o-zhizni-smerti-i-lubvi-zapisi-na-polyah-v-dnevnike-psihologa/) - книга Леи, которую я всем рекомендую, сборник не очень длинных, но очень сильных историй из жизни и практики автора
@@ -36,3 +48,10 @@ slug: lea-wedensky-1
 <!-- **Instagram:** [https://www.instagram.com/real.edos/](https://www.instagram.com/real.edos/) -->
 
 <!-- **Facebook:** [https://www.facebook.com/eddyboylazar](https://www.facebook.com/eddyboylazar) -->
+
+<!-- curl 'http://api.bit.ly/v3/shorten?login=eddy.lazar@gmail.com&apiKey=3574da64aa2ec0e82aae5d3f79fae43523848580&longURL=https://overcast.fm/+ZniZV98uw&format=txt'
+
+curl --header "Content-Type: application/json" \
+  --request POST \
+  --data '{"long_url":"https://overcast.fm/+ZniZV98uw","domain":"bit.ly"}' \
+  https://api-ssl.bitly.com/v4/shorten -->

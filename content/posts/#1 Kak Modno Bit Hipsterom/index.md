@@ -7,6 +7,16 @@ excerpt: Эпизод первый - экспериментальное знак
 slug: kak-modno-bit-hipsterom
 ---
 
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/446d30c7-5443-4840-bcf6-65e7966aba25?dark=true"></iframe>
+
+### Подписаться
+
+- [Apple Podcasts](https://apple.co/3frQXUs)
+- [Google Podcasts](https://bit.ly/3cfBox9)
+- [Spotify](https://spoti.fi/3ceCGbR)
+- [Overcast](https://bit.ly/3fvefcf)
+- [rss](https://feeds.simplecast.com/mROgeYHd)
+
 ### Описание
 
 Всем привет, меня зовут Эдуард, я eврей, программист, серфер, искатель(приключений и истины). Представляю вам первый выпуск своего подкаста, в котором я хочу немного познакомить слушателя с автором.
@@ -62,8 +72,6 @@ slug: kak-modno-bit-hipsterom
 </div>
 
 ## 3. Браслеты
-
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/446d30c7-5443-4840-bcf6-65e7966aba25?dark=true"></iframe>
 
 <div className="Image__Small">
   <img

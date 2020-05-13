@@ -1,6 +1,7 @@
 import { IArticle, IAuthor } from "@narative/gatsby-theme-novela/src/types";
 
 type SocialUrl = {
+  name: string;
   url: string;
 };
 

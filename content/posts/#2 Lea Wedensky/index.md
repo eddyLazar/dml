@@ -13,11 +13,12 @@ slug: lea-wedensky-1
 
 - [Apple Podcasts](https://apple.co/3frQXUs)
 - [Google Podcasts](https://bit.ly/3cfBox9)
+- [Youtube](https://www.youtube.com/watch?v=IymzExJ2F48&feature=youtu.be)
 - [Spotify](https://spoti.fi/3ceCGbR)
 - [Overcast](https://bit.ly/3fvefcf)
 - [rss](https://feeds.simplecast.com/mROgeYHd)
 
-Слушать этот выпуск на [Apple Podcasts](https://apple.co/3fuTDRm), [Google Podcasts](https://bit.ly/2A9aLvN), [Spotify](https://spoti.fi/3doum9t), [Overcast](https://bit.ly/2SNvSdA)
+Слушать этот выпуск на [Apple Podcasts](https://apple.co/3fuTDRm), [Google Podcasts](https://bit.ly/2A9aLvN), [Youtube](https://bit.ly/2zrM6lF), [Spotify](https://spoti.fi/3doum9t), [Overcast](https://bit.ly/2SNvSdA)
 
 ### Описание
 

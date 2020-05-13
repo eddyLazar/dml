@@ -3,11 +3,11 @@ import Paginator from "@narative/gatsby-theme-novela/src/components/Navigation/N
 import Section from "@narative/gatsby-theme-novela/src/components/Section";
 import SEO from "@narative/gatsby-theme-novela/src/components/SEO";
 import AuthorArticles from "@narative/gatsby-theme-novela/src/sections/author/Author.Articles";
-import AuthorHero from "@narative/gatsby-theme-novela/src/sections/author/Author.Hero";
 import React from "react";
 import styled from "../../../gatsby-plugin-theme-ui/styled";
 import { AuthorTemplate } from "../../../types";
 import { isAuthorPodcast } from "../../../utils/podcasts";
+import AuthorHero from "../sections/author/Author.Hero";
 
 const ArticlesPage: AuthorTemplate = ({ location, pageContext }) => {
   const author = pageContext.additionalContext.author;
@@ -33,7 +33,11 @@ const ArticlesPage: AuthorTemplate = ({ location, pageContext }) => {
         )}
       </SEO>
       <Section narrow>
-        <AuthorHero author={author} />
+        <AuthorHero
+          author={author}
+          isPodcast={!!isPodcast}
+          podcastRss={podcastRss}
+        />
         <AuthorArticles articles={articles} />
         <AuthorPaginator>
           <Paginator {...pageContext} />
